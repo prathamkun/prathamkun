@@ -20,4 +20,4 @@
   <br/>
   <i>Keep calm and code on ✨</i>
 </p>
-![](https://komarev.com/ghpvc/?username=prathamkun&color=blue)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkun&label=Profile%20views&color=0e75b6&style=flat" alt="prathamkun" /> </p>
