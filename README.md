@@ -1,6 +1,9 @@
-#                                    This is Pratham
-###                                      I try to make cool stuff.
-📫 How to reach me prathamkunbusiness@gmail.com<br>⚡ Fun fact I hope a recruiter finds my profile cool.
+<h1 align="center">This is Pratham</h1>
+<h3 align="center">I try to make cool stuff.</h3>
+<hr/>
+
+• 📫 How to reach me prathamkunbusiness@gmail.com<br>
+• ⚡️Fun fact I hope a recruiter finds my profile cool.
 
 
 ## 🌐 Conect with me:
