@@ -6,7 +6,7 @@
 • ⚡️Fun fact I hope a recruiter finds my profile cool.
 
 
-### 🌐 Conect with me:
+### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@prathamiscoding) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prathamiscoding) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamkunbusiness@gmail.com)
 <a href="https://leetcode.com/u/prathamkun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamkun" height="30" width="40" /></a>
 
