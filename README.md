@@ -24,8 +24,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkun&label=Profile%20views&color=0e75b6&style=flat" alt="prathamkun" /> </p>
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/threeal/grid-snake-light.svg" />
-  <img alt="GitHub contribution animation" src="https://threeal.github.io/threeal/grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/prathamkun/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/prathamkun/grid-snake-light.svg" />
+  <img alt="GitHub contribution animation" src="https://threeal.github.io/prathamkun/grid-snake.svg" />
 </picture>
 
