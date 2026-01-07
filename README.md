@@ -24,8 +24,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkun&label=Profile%20views&color=0e75b6&style=flat" alt="prathamkun" /> </p>
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://prathamkun.github.io/prathamkun/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://prathamkun.github.io/prathamkun/grid-snake-light.svg" />
+ 
  <img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/d8d63148-a9b4-48ac-8491-5de9fe5fe224" />
 
 </picture>
