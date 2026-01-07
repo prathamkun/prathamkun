@@ -24,8 +24,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkun&label=Profile%20views&color=0e75b6&style=flat" alt="prathamkun" /> </p>
 ---
 <picture>
- 
- <img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/d8d63148-a9b4-48ac-8491-5de9fe5fe224" />
 
-</picture>
+ <img width="880" height="192" alt="image" src="https://raw.githubusercontent.com/prathamkun/prathamkun/02d1b9cc61acca9101b8e03d596186b6c1632c2c/github-contribution-grid-snake-dark.svg" />
+
+ <picture>
 
