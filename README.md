@@ -24,8 +24,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkun&label=Profile%20views&color=0e75b6&style=flat" alt="prathamkun" /> </p>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/prathamkun/prathamkun/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/prathamkun/prathamkun/main/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/prathamkun/prathamkun/main/github-contribution-grid-snake.svg">
+</picture>
 
- <img width="880" height="192" alt="image" src="https://raw.githubusercontent.com/prathamkun/prathamkun/02d1b9cc61acca9101b8e03d596186b6c1632c2c/github-contribution-grid-snake-dark.svg" />
-
- <picture>
 
