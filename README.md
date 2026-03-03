@@ -17,9 +17,9 @@
 ---
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/504161a5f222cb6509144a98ea295d2a87b37fb930f2f42f5ab8a0734ee08f42/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4434443132415148346d6351414c77675a37512f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313639313938393933323037313f653d3231343734383336343726763d6265746126743d75776d356c78466971555258757a475f786e6639687249722d5f736f6a5361513467677275554159736d55" width="420" alt="Anime GIF"/>
+  <img src="https://giffiles.alphacoders.com/491/49179.gif" width="420" alt="Anime GIF"/>
   <br/>
-  <i>Keep calm and code on ✨</i>
+  <i>Consistency & Discipline✨</i>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkun&label=Profile%20views&color=0e75b6&style=flat" alt="prathamkun" /> </p>
 
