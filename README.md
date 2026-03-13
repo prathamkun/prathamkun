@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prathamkun/prathamkun/main/spideygif2.gif" width="420" alt="spidey"/>
+  <img src="https://i.pinimg.com/originals/96/50/d9/9650d93a369a325b1410309ce5d0e96f.gif" width="420" alt="spidey"/>
   <br/>
   <i>wanna eat some candies?</i>
 </p>
@@ -31,6 +31,14 @@
   <img alt="github contribution snake"
     src="https://raw.githubusercontent.com/prathamkun/prathamkun/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<br>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZxdmRmNnBiOGk5c3k1ZHEzNHZmNXYwdG82aHcyemNxNWh4bnQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wuU9Hvp5wF7xe/giphy.gif" width="400" height="371"/>
+  <img src="https://raw.githubusercontent.com/prathamkun/prathamkun/main/spideygif2.gif" width="400" height="400"/>
+</p>
 
 
 
