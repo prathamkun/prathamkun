@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/491/49179.gif" width="420" alt="Anime GIF"/>
+  <img src="https://i.pinimg.com/originals/c8/e1/57/c8e15787a56cba7278146d79c93fd7bc.gif" width="420" alt="Anime GIF"/>
   <br/>
   <i>Consistency & Discipline✨</i>
 </p>
