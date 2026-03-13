@@ -39,7 +39,11 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZxdmRmNnBiOGk5c3k1ZHEzNHZmNXYwdG82aHcyemNxNWh4bnQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wuU9Hvp5wF7xe/giphy.gif" width="400" height="371"/>
   <img src="https://raw.githubusercontent.com/prathamkun/prathamkun/main/spideygif2.gif" width="400" height="400"/>
 </p>
-
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=500&duration=3000&pause=1000&color=C82705&width=435&lines=Your+friendly+neighborhood+Spider-Man!" alt="Typing SVG" />
+</a>
+</p>
 
 
 
