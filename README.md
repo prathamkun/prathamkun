@@ -17,9 +17,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prathamkun/prathamkun/main/spideygif2.gif" width="420" alt="Anime GIF"/>
+  <img src="https://raw.githubusercontent.com/prathamkun/prathamkun/main/spideygif2.gif" width="420" alt="spidey"/>
   <br/>
-  <i>Consistency & Discipline✨</i>
+  <i>wanna eat some candies?</i>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkun&label=Profile%20views&color=0e75b6&style=flat" alt="prathamkun" /> </p>
 
@@ -31,6 +31,7 @@
   <img alt="github contribution snake"
     src="https://raw.githubusercontent.com/prathamkun/prathamkun/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 
