@@ -24,12 +24,16 @@
 ![GitHub Contribution Grid](https://ghchart.rshah.org/409ba5/prathamkun)
 
 ##  Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamiscoding/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prathamiscoding) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamkunbusiness@gmail.com)
-<a href="https://leetcode.com/u/prathamkun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamkun" height="20" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamiscoding/) &nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prathamiscoding) &nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamkunbusiness@gmail.com) &nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/prathamkun/)
 
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXYzZ21haGlzbGg3czk3bjVnbzk1bzdoMGQ1c3ppN3FlczRiNG13eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ci4vIzBJxofxI8xbgh/giphy.gif" width="480" alt="Chrollo Lucilfer">
+  <img src="Hunter%20X%20Hunter%20Chrollo%20GIF.gif" width="450" alt="Chrollo Lucilfer">
+  <br>
+  <i>"The only principles are those decided by the survivor ♱"</i>
 </p>
 
 
