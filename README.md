@@ -33,7 +33,7 @@
 <p align="center">
   <img src="Hunter%20X%20Hunter%20Chrollo%20GIF.gif" width="450" alt="Chrollo Lucilfer">
   <br>
-  <i>"The only principles are those decided by the survivor ♱"</i>
+  <i>"The only principles are those decided by the survivors ♱"</i>
 </p>
 
 
