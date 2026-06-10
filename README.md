@@ -23,12 +23,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/prathamkun/prathamkun/output/galaga-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/prathamkun/prathamkun/arcade-output/galaga-contribution-graph-dark.svg">
   <img alt="galaga contribution graph"
-    src="https://raw.githubusercontent.com/prathamkun/prathamkun/output/galaga-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/prathamkun/prathamkun/arcade-output/galaga-contribution-graph.svg">
 </picture>
 
-![GitHub Contribution Grid](https://ghchart.rshah.org/409ba5/prathamkun)
+
 
 ##  Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamiscoding/) &nbsp;&nbsp;
